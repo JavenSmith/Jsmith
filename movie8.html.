@@ -1,0 +1,110 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+       <meta charset= "UTF-8"> 
+    <Title>Favorite Movie - Cars</title> 
+
+ <style> 
+  body { 
+         font-family: Arial, Helevetica, sans-serif; 
+    background-color: #f0f8ff; 
+     margin: 20px; 
+  }  
+
+ h1 { 
+      text-align: center ; 
+    color: #cc0000; 
+} 
+
+table { 
+        width: 80% 
+        Margin: atuo; 
+        border-collapse: collapse; 
+        border: 4px solid #cc0000; 
+}  
+
+th{ 
+    Background-color: #cc0000; 
+     color: white: 
+    padding: 12px; 
+} 
+
+td { 
+    Border: 2px solid #666; 
+    padding: 10px; 
+    background-color: #fff8dc; 
+} 
+
+a { 
+color: red; 
+} 
+
+.contact { 
+           text-allign: center; 
+           margin-top 20px; 
+          } 
+</style> 
+</head> 
+
+<body> 
+
+    <h1>My favorite movie: Cars</h1> 
+
+<table> 
+  <tr> 
+       <th>Movie information</th 
+        <th>Details</th> 
+     </tr> 
+
+   <tr> 
+    <td>title</td> 
+     <td>Cars</td> 
+    </tr> 
+
+  <tr> 
+    <td>Director</td> 
+    <td>John Lasseter</td> 
+   </tr> 
+
+   <tr> 
+   <td>Leading Actor</td> 
+   <td>Owen Wilson (voice of Lightning Mcqueen)</td> 
+</tr> 
+
+<tr> 
+<td>Leading Actress</td> 
+<td>Bonnie Hunt (Voice of Sally Carrera) </td> 
+</tr> 
+
+<tr> 
+<td>Movie Rating</td> 
+<td>G</td> 
+</tr> 
+
+<tr> 
+  <td>Description</td> 
+<td> 
+   Cars is an animated Disney-pixar film about Lightning Mcqueen, a racecar who found hismelf stranded in a small town called Radiator Springs. Througout his time in Radiator Springs, he found friendship, and learn life lessons. There was more to life than winning races. 
+</td> 
+</tr> 
+
+<tr> 
+    <td>Movie Review</td> 
+     <td> 
+  <a href="https://www.imdb.com/title/tt0317219/"> 
+ Read the IMBD Review 
+</a> 
+</td> 
+</tr> 
+</table> 
+
+<div class ="contact"> 
+   Contact Me : 
+    <a href="sjaven07@gmail.com"> 
+</a> 
+</div> 
+
+</body> 
+</html>
+
+    
